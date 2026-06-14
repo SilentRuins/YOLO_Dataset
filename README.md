@@ -6,7 +6,7 @@
 `python-3.10`,`pytorch`,`yolo26`,`opencv`,`labelimg`
 ## 文件结构：
 ```
-dataset&model/  
+YOLO_dataset/  
 ├── make_dataset/  
 │   ├── img/  
 │   ├── labels/  
