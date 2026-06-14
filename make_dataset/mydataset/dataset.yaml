@@ -1,0 +1,13 @@
+# YOLO数据集配置文件
+# 数据集路径
+path: mydataset  # 数据集根目录
+train: images/train  # 训练集图片路径
+val: images/val      # 验证集图片路径
+
+# 类别数量（请根据实际情况修改）
+nc: 2  # number of classes
+
+# 类别名称（请根据实际情况修改）
+names:
+  0: charger
+  1: glue
